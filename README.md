@@ -70,6 +70,12 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SarahSohaib&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SarahSohaib&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSohaib&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarahSohaib&theme=date_night&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SarahSohaib&theme=date_night&hide_border=false" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSohaib&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/>
+</p>
