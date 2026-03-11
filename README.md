@@ -1,18 +1,27 @@
-# Hi there, I'm Sarah Sohaib 👋  
+<h1 align="center">Hi there, I'm Sarah Sohaib 👋</h1>
+<h3 align="center">Engineer • Writer • Creator</h3>
 
-🌌 **Engineer. Writer. Creator.**  
-- B.Tech CSE (Core) 3rd year student at Manipal University Jaipur  
-- Currently exploring AI, NLP, full-stack development, and anything curious that catches my mind  
-- Passionate about merging logic with creativity, whether it's through code, design, or writing  
+<p>
+  <br>
+- B.Tech CSE (Core) 3rd year student at Manipal University Jaipur<br>
+- Currently building AI and cloud-based systems, and occasionally breaking them while learning<br>
+- Curious about how intelligent software interacts with real-world problems<br>
+- Passionate about merging logic with creativity through code, writing, and late-night ideas
+</p>
 
 ---
 
-## 🔭 What I'm Working On
+<h2>🔭 What I'm Working On</h2>
 
-- 🧠 **Asena** – My personal virtual assistant project, inspired by JARVIS & TARS, combining voice, vision, and natural language intelligence. Aiming to outsmart Siri 😉  
-- 📚 **Tech + Philosophy Blogs** – Currently drafting a blog series that merges emerging tech with philosophical reflections, from AI ethics to quantum creativity. And some totally random ones too!
-- 💡 And other random ideas that pop up in the middle of the night
+<p>
 
+🧠 **Carbon-Aware Workload Scheduler** – Building a system that schedules compute workloads based on carbon intensity and energy efficiency, aiming to make cloud computing a little smarter and a little greener.
+
+📚 **Tech + Philosophy Blogs** – Currently drafting a blog series that merges emerging tech with philosophical reflections, from AI ethics to quantum creativity. And some totally random ones too!
+<br>
+<br>And other random ideas that pop up in the middle of the night....
+</p>
+</p>
 
 
 ## 🌐 Socials:
@@ -64,5 +73,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=SarahSohaib&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SarahSohaib&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSohaib&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
