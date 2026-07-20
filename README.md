@@ -3,7 +3,7 @@
 
 <p>
   <br>
-- B.Tech CSE (Core) 3rd year student at Manipal University Jaipur<br>
+- Final Year B.Tech CSE (Core) student at Manipal University Jaipur<br>
 - Currently building AI and cloud-based systems, and occasionally breaking them while learning<br>
 - Curious about how intelligent software interacts with real-world problems<br>
 - Passionate about merging logic with creativity through code, writing, and late-night ideas
