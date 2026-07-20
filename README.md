@@ -15,7 +15,7 @@
 
 <p>
 
-🧠 **Carbon-Aware Workload Scheduler** – Building a system that schedules compute workloads based on carbon intensity and energy efficiency, aiming to make cloud computing a little smarter and a little greener.
+🧠 **Carbon-Aware Cloud Workload Scheduler** – Building a system that schedules compute workloads based on carbon intensity and energy efficiency, aiming to make cloud computing a little smarter and a little greener.
 
 📚 **Tech + Philosophy Blogs** – Currently drafting a blog series that merges emerging tech with philosophical reflections, from AI ethics to quantum creativity. And some totally random ones too!
 <br>
